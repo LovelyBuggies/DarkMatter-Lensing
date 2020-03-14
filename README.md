@@ -23,7 +23,7 @@ Following the following steps before starting your notebooks.
 4. Download lensing dataset from https://drive.google.com/file/d/1IhgY91XCXz1QF5GoZow8Hu-YvzWbPZP6/view?usp=sharing .
 5. Unzip the `tar.gz` formatted dataset and move `user/Downloads/lenses` folder to the `DarkMatter-Lensing/data` folder.
 6. Delete the contents in `lenses_train` and `lenses_valid` if you want to re-shuffle the whole dataset.
-7. Restart and clear outputs of `\*.ipynb`.
+7. Restart and clear outputs of `*.ipynb`.
 8. Optional: Remove the contents in `data` folder if you do not expect to push the dataset to GitHub (*I push it for convenience*).
 
 ## Contents
