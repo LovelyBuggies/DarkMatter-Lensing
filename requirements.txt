@@ -1,0 +1,8 @@
+numpy
+jupyterlab
+matplotlib
+shutil
+torch
+torchvision
+autolens>=0.40.0
+
