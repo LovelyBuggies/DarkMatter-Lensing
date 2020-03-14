@@ -1,6 +1,18 @@
 # DarkMatter-Lensing
 Using PyAutoLens to simulate dark matters and learn their representation.
 
+## Requirements
+
+- numpy
+- jupyterlab
+- matplotlib
+- shutil
+- torch
+- torchvision
+- autolens>=0.40.0
+
+*Upgrade wheels to the latest version is recommended!*
+
 ## Usage
 
 Following the following steps before starting your notebooks. 
@@ -13,3 +25,8 @@ Following the following steps before starting your notebooks.
 6. Delete the contents in `lenses_train` and `lenses_valid` if you want to re-shuffle the whole dataset.
 7. Restart and clear outputs of `\*.ipynb`.
 8. Optional: Remove the contents in `data` folder if you do not expect to push the dataset to GitHub (*I push it for convenience*).
+
+## Contents
+
+- Superfluid dark matter simulation with [PyAutoLens](https://github.com/Jammy2211/PyAutoLens)
+- Dark matter representation by convolutional neural network
