@@ -28,5 +28,5 @@ Following the following steps before starting your notebooks.
 
 ## Contents
 
-- Superfluid dark matter simulation with [PyAutoLens](https://github.com/Jammy2211/PyAutoLens)
-- Dark matter representation by convolutional neural network
+- Linearly dense dark matter simulation with [PyAutoLens](https://github.com/Jammy2211/PyAutoLens).
+- Dark matter representation by convolutional neural network.
